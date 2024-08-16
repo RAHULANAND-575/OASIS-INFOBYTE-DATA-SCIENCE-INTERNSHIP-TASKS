@@ -58,7 +58,7 @@ To develop a model that predicts sales based on advertising expenditure, helping
 Description:
 This project aims to build a spam filter that classifies emails as spam or non-spam based on their content. It involves preprocessing email text, feature extraction, and model training to identify and filter out spam emails.
 
-Modules:
+Modules: 
 
 Data Preprocessing: Text cleaning, tokenization, and normalization.
 Feature Extraction: Using techniques such as TF-IDF or word embeddings to convert text into numerical features.
